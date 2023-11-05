@@ -1,5 +1,5 @@
 # 💫 About Me:
-I post coding related stuff on my [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@adilsherdotpro) channel.<br>I provide Web Solutions to businesses.<br>A glance of my portfolio can be found at www.adilsher.pro.<br>I have a great interest for AI development.<br>I'm currently working on a product integrating Midjourney, ChatGPT and few others.<br>Programming is fun until a series of errors.
+I post coding and AI tools tutorials on my [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@adilsherdotpro) channel.<br>I provide Web Solutions to businesses.<br>A glance of my portfolio can be found at www.adilsher.pro.<br>I have a great interest for AI development.<br>I'm currently working on a product integrating Midjourney, ChatGPT and few others.<br>Programming is fun until a series of errors.
 
 
 ## 🌐 Socials:
