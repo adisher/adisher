@@ -1,8 +1,8 @@
 # Hey, I'm Adil Sher 👋
 
-**Freelance Software Engineer** building digital products at the intersection of **AI, Telecom, and Web**.
+**Freelance Software Engineer** specializing in full-stack development, AI integration, and scalable backend systems. I build products that ship.
 
-Based in Islamabad, Pakistan — I've spent years building platforms for Pakistan's largest telecom operators (Telenor, Zong, Ufone) and now work with clients worldwide.
+Based in Islamabad, Pakistan — I've built OTT platforms, AI assistants, RAG pipelines, and automated content systems for clients ranging from national telecom operators to indie products.
 
 ---
 
@@ -12,19 +12,19 @@ Based in Islamabad, Pakistan — I've spent years building platforms for Pakista
 **Frontend:** Next.js · React · TypeScript · Tailwind CSS  
 **AI/ML:** LangChain · LlamaIndex · RAG Pipelines · Weaviate · Groq · OpenRouter  
 **Data:** MySQL · Redis (Upstash) · Celery · Cron Pipelines  
-**Telecom:** IVR/Asterisk · USSD · SMS Gateways · OTP/Consent Flows · SAML2/SSO  
 **DevOps:** GitHub Actions · Cloudflare Workers · Vercel · Linux Administration  
+**Telecom:** IVR/Asterisk · USSD · SMS Gateways · OTP/Consent Flows · SAML2/SSO  
 **Other:** Computer Vision (YOLO) · IoT · Cisco Networking · DaVinci Resolve
 
 ---
 
 ### 🚀 Notable Work
 
-- **Deikhlo / GoonjTV** — OTT streaming platform for Telenor Pakistan. Owned the full application layer: content pipeline, live TV CDN fallback, admin CMS, consent management.
-- **OZGPT** — Multi-channel AI assistant for Zong (web, mobile, SMS, USSD, IVR).
-- **Kids Stories App** — Multilingual children's app targeting 6 Pakistani languages (EN, UR, SD, SK, BL, PS) with FastAPI backend, Laravel admin portal, and video CDN delivery.
 - **ComplianceCore** — AI-powered compliance platform with RAG pipeline, vector search (Weaviate), cross-encoder reranking, and adaptive LLM routing via Groq/OpenRouter.
 - **BioLink Pro** — Indie bio-link template built with Next.js 14, Upstash Redis, 5 themes, admin panel, analytics, and drag-and-drop ordering.
+- **OZGPT** — Multi-channel AI assistant for Zong (web, mobile, SMS, USSD, IVR).
+- **Deikhlo / GoonjTV** — OTT streaming platform for Telenor Pakistan. Owned the full application layer: content pipeline, live TV CDN fallback, admin CMS, consent management.
+- **Kids Stories App** — Multilingual children's app targeting 6 Pakistani languages (EN, UR, SD, SK, BL, PS) with FastAPI backend, Laravel admin portal, and video CDN delivery.
 
 ---
 
@@ -46,5 +46,5 @@ Based in Islamabad, Pakistan — I've spent years building platforms for Pakista
 ### 🌐 Find Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-adilsher.pro-blue?style=flat-square)](https://adilsher.pro)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adil_Sher-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adil_Sher-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adilsher/)
 [![YouTube](https://img.shields.io/badge/YouTube-@adilsherdotpro-red?style=flat-square&logo=youtube)](https://youtube.com/@adilsherdotpro)
